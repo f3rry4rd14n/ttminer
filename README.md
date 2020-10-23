@@ -1,0 +1,2 @@
+# ttminer
+TTMINER FOR LINUX
